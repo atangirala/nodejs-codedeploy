@@ -8,7 +8,7 @@ hooks:
     - location: scripts/stop.sh
       timeout: 120
       runas: root  
-  ApplicationStart:
+  AfterInstall:
     - location: scripts/start.sh
       timeout: 120
       runas: root
