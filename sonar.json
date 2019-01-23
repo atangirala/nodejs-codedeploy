@@ -1,0 +1,4 @@
+{  
+    "sonarHost": "http://18.222.108.69:9000",
+    "sonarProjectKey": "mps.test:master"
+}
